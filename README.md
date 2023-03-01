@@ -14,3 +14,8 @@ Just put your path in config.py and you should be good! :)
 POWERSHELL COMMAND used in scripts:
 
 $WshShell = New-Object -comObject WScript.Shell $Shortcut = $WshShell.CreateShortcut("$Home\Desktop\DROP_FOLDER\t-di-vit-001.lnk") $Shortcut.TargetPath = "http://t-di-vit-001.some-domain.com/" $Shortcut.Save()
+
+![slika](https://user-images.githubusercontent.com/126578030/222058567-cb4a1665-9512-4dda-a6fb-b4b80027f3af.png)
+
+
+
